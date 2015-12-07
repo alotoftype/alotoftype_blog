@@ -6,6 +6,7 @@ gem 'rails', '4.2.5'
 #user authentication
 gem 'devise'
 gem 'bower-rails'
+gem 'carrierwave'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
